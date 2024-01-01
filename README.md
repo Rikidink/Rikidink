@@ -1,7 +1,9 @@
 <div id="header" align="center">
   <img src="https://media1.tenor.com/m/qb36GNMGgX0AAAAC/cat-computer.gif" width="230"/>
   <div id="badges">
-    <img alt="Static Badge" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Frickyzhang10%2F">
+    <a href="https://www.linkedin.com/in/rickyzhang10/">
+      <img alt="Static Badge" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
+    </a>
   </div>
   <h1>
     hey there 👋
