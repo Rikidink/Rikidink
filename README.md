@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://tenor.com/en-GB/view/press-any-key-any-key-homer-simpson-the-simpsons-computer-gif-14827444" width="100"/>
+  <img src="https://media1.tenor.com/m/qb36GNMGgX0AAAAC/cat-computer.gif" width="300"/>
 </div>
 
 ### Hi there 👋
