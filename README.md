@@ -1,3 +1,7 @@
+<div id="header" align="center">
+  <img src="https://tenor.com/en-GB/view/press-any-key-any-key-homer-simpson-the-simpsons-computer-gif-14827444" width="100"/>
+</div>
+
 ### Hi there 👋
 
 <!--
