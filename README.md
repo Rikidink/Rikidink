@@ -12,9 +12,26 @@
 
 ### ✨ About me ✨:  
 - Aspiring software developer and full-stack developer 👨‍💻
-- Studying computer science @ Monash University, Melbourne 🏫
+- Studying computer science @ Monash University, Melbourne 📘
 -  Passionate in teaching and educating others in all things tech and programming 👨‍🏫
 - Always learning 🤓
+
+---
+
+### 📏 Tools and Languages 📐:  
+<div>
+  <img src='https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg' width='40'>
+  <img src='https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg' width='40'>
+  <img src='https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg' width='40'>
+  <img src='https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg' width='40'>
+  <img src='https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg' width='40'>
+  <img src='https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg' width='40'>
+  <img src='https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg' width='40'>
+  <img src='https://github.com/devicons/devicon/blob/master/icons/flask/flask-original-wordmark.svg' width='40'>
+  <img src='https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-plain-wordmark.svg' width='40'>
+  <img src='https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg' width='40'>
+  <img src='https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg' width='40'>
+</div>
 
 <!--
 **Rikidink/Rikidink** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
