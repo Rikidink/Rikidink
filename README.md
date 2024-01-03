@@ -10,6 +10,11 @@
   </h1>
 </div>
 
+### ✨ About me ✨:  
+- Aspiring software developer and full-stack developer 👨‍💻
+- Studying computer science @ Monash University, Melbourne 🏫
+- Always learning 🤓
+
 <!--
 **Rikidink/Rikidink** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
