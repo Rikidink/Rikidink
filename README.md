@@ -13,6 +13,7 @@
 ### ✨ About me ✨:  
 - Aspiring software developer and full-stack developer 👨‍💻
 - Studying computer science @ Monash University, Melbourne 🏫
+-  Passionate in teaching and educating others in all things tech and programming 👨‍🏫
 - Always learning 🤓
 
 <!--
