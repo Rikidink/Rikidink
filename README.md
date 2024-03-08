@@ -29,7 +29,7 @@
   <img src='https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg' width='40'>
   <img src='https://github.com/devicons/devicon/blob/master/icons/flask/flask-original-wordmark.svg' width='40'>
   <img src='https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-plain-wordmark.svg' width='40'>
-  <img src='https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg' width='40'>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width='40'/>      
   <img src='https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg' width='40'>
 </div>
 
