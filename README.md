@@ -1,5 +1,6 @@
 <div id="header" align="center">
-  <img src="https://media1.tenor.com/m/qb36GNMGgX0AAAAC/cat-computer.gif" width="230"/>
+<!--   <img src="https://media1.tenor.com/m/qb36GNMGgX0AAAAC/cat-computer.gif" width="230"/> -->
+  ![Monkeytype screenshot](image.png)
   <div id="badges">
     <a href="https://www.linkedin.com/in/rickyzhang10/">
       <img alt="Static Badge" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
