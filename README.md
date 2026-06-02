@@ -21,6 +21,13 @@
 
 [![My Skills](https://skillicons.dev/icons?i=ts,py,react,nextjs,vite,tailwind,nodejs,express,aws,mysql,postgres,sqlite,mongodb,github,docker)](https://skillicons.dev)
 
+---
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rikidink&theme=tokyonight" alt="mystreak"/>
+</div>
+
+
 <!--
 **Rikidink/Rikidink** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
