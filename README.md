@@ -12,8 +12,8 @@
 </div>
 
 ### ✨ About me ✨:  
-- Aspiring software developer and full-stack developer 👨‍💻
-- Studying computer science @ Monash University, Melbourne 📘
+- Software engineer currently developing Partsforce @ BM Spares, an internal CRM platform for one of Australia's leading BMW dismantlers 👨‍💻
+- Recent graduate from computer science @ Monash University, Melbourne 📘
 -  Passionate in teaching and educating others in all things tech and programming 👨‍🏫
 - Always learning 🤓
 
