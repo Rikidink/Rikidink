@@ -13,7 +13,8 @@
 
 ### ✨ About me ✨:  
 - Software engineer currently developing Partsforce @ BM Spares, a CRM platform for one of Australia's leading BMW dismantlers 👨‍💻
-- Recent graduate from computer science @ Monash University, Melbourne 📘
+- Preferred stack: Server: Bun + Hono | Client: React Vite + Tailwind + Tanstack 💡
+- Recent graduate from computer science @ Monash University, Melbourne 🏫
 -  Passionate in teaching and educating others in all things tech and programming 👨‍🏫
 - Always learning 🤓
 
