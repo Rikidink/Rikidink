@@ -20,7 +20,11 @@
 
 ---
 
-[![My Skills](https://skillicons.dev/icons?i=ts,py,react,nextjs,vite,tailwind,nodejs,express,aws,mysql,postgres,sqlite,mongodb,github,docker)](https://skillicons.dev)
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ts,py,react,nextjs,vite,tailwind,bun,nodejs,express,aws,mysql,postgres,mongodb,github,docker" />
+  </a>
+</div>
 
 ---
 
