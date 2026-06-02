@@ -19,20 +19,7 @@
 
 ---
 
-### 📏 Tools and Languages 📐:  
-<div>
-  <img src='https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg' width='40'>
-  <img src='https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg' width='40'>
-  <img src='https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg' width='40'>
-  <img src='https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg' width='40'>
-  <img src='https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg' width='40'>
-  <img src='https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg' width='40'>
-  <img src='https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg' width='40'>
-  <img src='https://github.com/devicons/devicon/blob/master/icons/flask/flask-original-wordmark.svg' width='40'>
-  <img src='https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-plain-wordmark.svg' width='40'>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width='40'/>      
-  <img src='https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg' width='40'>
-</div>
+[![My Skills](https://skillicons.dev/icons?i=ts,py,react,nextjs,vite,tailwind,nodejs,express,aws,mysql,postgres,sqlite,mongodb,github,docker)](https://skillicons.dev)
 
 ---
 <div align="center">
